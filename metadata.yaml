@@ -1,0 +1,31 @@
+_repo: Heroes-and-Hunters-of-the-West--13-Comprising-Sketches-and-Adventures-of-Boone-Kenton-Brady-L__26965
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frost, John
+    aliases:
+    - Frost, J. (John)
+    - Moore, William V.
+    birthdate: 1800
+    deathdate: 1859
+    gutenberg_agent_id: '32379'
+    url: http://www.gutenberg.org/2009/agents/32379
+description: Published anonymously.  John Frost is supposed author.
+gutenberg_issued: '2008-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Ohio River Valley'
+- !lcsh 'Indian captivities'
+- !lcc 'E011'
+title: "Heroes and Hunters of the West\r\nComprising Sketches and Adventures of Boone,\
+  \ Kenton, Brady, Logan, Whetzel, Fleehart, Hughes, Johnson, &c."
+url: http://www.gutenberg.org/ebooks/26965
