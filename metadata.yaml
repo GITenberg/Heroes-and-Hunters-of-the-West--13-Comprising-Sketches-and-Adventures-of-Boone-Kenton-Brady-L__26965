@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32379'
     url: http://www.gutenberg.org/2009/agents/32379
 description: Published anonymously.  John Frost is supposed author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26965#Heroes-and-Hunters-of-the-West--13-Comprising-Sketches-and-Adventures-of-Boone-Kenton-Brady-L_
 gutenberg_issued: '2008-10-19'
 gutenberg_type: Text
 identifiers:
